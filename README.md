@@ -1,0 +1,1 @@
+# Automatizaci-n-del-proceso-de-calibraci-n-para-el-m-todo-de-correlaci-n-digital-de-im-genes
